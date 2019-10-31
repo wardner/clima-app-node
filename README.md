@@ -1,7 +1,7 @@
 
 ## App del Clima Node.js
 
-Recuerden ejecutar ```nmp install``` para las librerias
+Recuerden ejecutar ```npm install``` para las librerias
 
 ### EJEMPLO:
 ```
